@@ -5,3 +5,21 @@ p{
     border-radius: 20px;
 
 }
+#has{
+    background-color: rgb(224, 30, 208);
+    color: rgb(10, 9, 9);
+    padding: 30px;
+    border-radius: 20px;
+}
+#have{
+    background-color: green;
+    color: blue;
+    padding: 30px;
+    border-radius: 20px;
+}
+.noka{
+    background-color: aqua;
+    color: navy;
+    padding: 30px;
+    border-radius: 20px;
+}
